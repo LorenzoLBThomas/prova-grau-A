@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ArCondicionado
+comment1.params=temp_min\ temp_max
+comment1.target=ArCondicionado(double,\ double)
+comment10.params=novaTemperatura
+comment10.target=boolean\ ajustaTemperaturaAtual(double)
+comment2.params=
+comment2.target=double\ getTemp_min()
+comment3.params=temp_min
+comment3.target=void\ setTemp_min(double)
+comment4.params=
+comment4.target=double\ getTemp_max()
+comment5.params=temp_max
+comment5.target=void\ setTemp_max(double)
+comment6.params=
+comment6.target=double\ getTemp_atual()
+comment7.params=
+comment7.target=boolean\ isQuenteEFrio()
+comment8.params=
+comment8.target=void\ imprimeInfo()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11
